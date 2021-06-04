@@ -1,6 +1,6 @@
 FROM alpine:3.13
 
-LABEL maintainer="mritd <mritd@linux.com>"
+LABEL maintainer="Apoti Eri <lioneltchami@gmail.com>"
 
 ARG TZ="Asia/Shanghai"
 
