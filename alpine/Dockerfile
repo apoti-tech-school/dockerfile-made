@@ -1,6 +1,6 @@
 FROM alpine:3.13
 
-LABEL maintainer="Apoti Eri <lioneltchami@gmail.com>"
+LABEL maintainer="Lionel T. <lioneltchami@gmail.com>"
 
 ARG TZ="Asia/Shanghai"
 
